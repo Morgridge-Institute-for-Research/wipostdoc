@@ -1,5 +1,5 @@
 module.exports = {
-  darkMode: 'class',
+  darkMode: 'false',
   content: [
     "./src/_includes/**/*.{html,md,11ty.js,liquid,njk,hbs,mustache,ejs,haml,pug}",
     "./src/blog/**/*.{html,md,11ty.js,liquid,njk,hbs,mustache,ejs,haml,pug}",
