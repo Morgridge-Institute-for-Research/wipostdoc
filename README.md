@@ -45,6 +45,8 @@ npm install
 #### 4. Work locally
 Watches for changes and serves locally on http://localhost:8080
 
+nvm use 22
+Must use exact path to directory ie. "cd C:\Users\rlumley\GitHub\wipostdoc"
 ```
 npm run serve
 ```
